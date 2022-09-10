@@ -21,6 +21,9 @@ Sample Input 1:
 2 3
 Sample Output 2:
 1
+
+
+
 */
 
 
